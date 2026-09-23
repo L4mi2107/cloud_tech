@@ -1,0 +1,15 @@
+.gradle/
+build/
+out/
+
+.idea/
+*.iml
+*.iws
+*.ipr
+
+gradle.properties
+
+.DS_Store
+Thumbs.db
+
+*.log
